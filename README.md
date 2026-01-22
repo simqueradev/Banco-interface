@@ -11,7 +11,7 @@ Um projeto que faz transações monetárias fictícias, usando C# e .NET, sem ba
 dotnet --version  
 
 2. Clone o repositório:  
-git clone https://github.com/fellipesiqueiradev/Banco-interface.git  
+git clone https://github.com/simqueradev/Banco-interface.git  
 cd Banco-interface  
 cd teste16_interfaceteste  
 
