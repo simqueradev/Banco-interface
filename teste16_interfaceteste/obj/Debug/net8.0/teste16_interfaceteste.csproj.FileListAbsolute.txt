@@ -1,0 +1,14 @@
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\bin\Debug\net8.0\teste16_interfaceteste.exe
+C:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\bin\Debug\net8.0\teste16_interfaceteste.deps.json
+C:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\bin\Debug\net8.0\teste16_interfaceteste.runtimeconfig.json
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\bin\Debug\net8.0\teste16_interfaceteste.dll
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\bin\Debug\net8.0\teste16_interfaceteste.pdb
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.AssemblyInfoInputs.cache
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.AssemblyInfo.cs
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.csproj.CoreCompileInputs.cache
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.dll
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\refint\teste16_interfaceteste.dll
+c:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.pdb
+C:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\teste16_interfaceteste.genruntimeconfig.cache
+C:\Users\felli\Documents\PROGRAMAÇÃO\vsteste\poo\teste16_interfaceteste\obj\Debug\net8.0\ref\teste16_interfaceteste.dll
